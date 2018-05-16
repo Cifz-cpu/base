@@ -1,6 +1,5 @@
 import math
-
-
+import datasoft
 # def my_abs(x):
 #
 #     if not isinstance(x,(int,float)):
@@ -33,7 +32,6 @@ import math
 #     return s
 #
 # print(power(2))
-
 def add_end(L = None):
     if L is None:
         L = []
